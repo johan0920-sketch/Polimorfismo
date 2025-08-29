@@ -7,5 +7,6 @@ public class App {
             animal.hacerSonido(); // Llama al método específico de cada clase
         }
         System.out.println("Aplicando Git Bash");
+        System.out.println("Aplicando Git Bash");
     }
 }
