@@ -6,6 +6,6 @@ public class App {
         for (Animal animal : animales) {
             animal.hacerSonido(); // Llama al método específico de cada clase
         }
-        System.out.println("Explicando GIT");
+        System.out.println("Aplicando Git Bash");
     }
 }
